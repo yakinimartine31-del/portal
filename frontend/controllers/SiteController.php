@@ -444,6 +444,12 @@ class SiteController extends Controller
                 return $this->redirect(['site/reset']);
             }
 
+            if ($this->hasReachedOtpLimit($zssf)) {
+                $this->sendOtpLimitNotice($phone = $contact['mobile_number'], $zssf);
+                Yii::$app->session->setFlash('form_fail', Yii::t('yii', 'Please visit the nearest ZSSF office for further assistance'));
+                return $this->redirect(['site/reset']);
+            }
+
             $email = $contact['email'];
             $phone = $contact['mobile_number'];
             $username = $contact['username'];
@@ -765,6 +771,13 @@ class SiteController extends Controller
 
             $_SESSION['member_number'] = $zssf;
 
+            $registrationMember = Members::find()->where(['membership_number' => $zssf])->one();
+            if ($this->hasReachedOtpLimit($zssf)) {
+                $this->sendOtpLimitNotice($registrationMember['mobile_number'] ?? null, $zssf);
+                Yii::$app->session->setFlash('form_fail', Yii::t('yii', 'Please visit the nearest ZSSF office for further assistance'));
+                return $this->redirect(['site/signup']);
+            }
+
 //            $Members = ZssfBackendMembersSimulation::find()
 //            ->where(['member_number'=>$zssf])
 //            ->orderBy(['id' => SORT_DESC])
@@ -804,6 +817,12 @@ class SiteController extends Controller
             //  die;
 
             if ($status == '200') {
+
+                $this->recordOtpRequest(
+                    $zssf,
+                    $registrationMember['mobile_number'] ?? $registrationMember['email'] ?? null,
+                    'Member registration OTP request'
+                );
 
                 Yii::$app->session->setFlash('form_success', Yii::t('yii', 'We have sent OTP to your phone number'));
                 return $this->redirect(['site/signup']);
@@ -1183,6 +1202,48 @@ class SiteController extends Controller
         return $this->render('resendVerificationEmail', [
             'model' => $model
         ]);
+    }
+
+    private function hasReachedOtpLimit($memberNumber)
+    {
+        return SmsLogs::find()
+            ->where([
+                'member_number' => $memberNumber,
+                'msg_category_id' => 2,
+                'sms_status' => 1,
+            ])
+            ->count() >= 5;
+    }
+
+    private function recordOtpRequest($memberNumber, $recipient, $message)
+    {
+        $smsLog = new SmsLogs();
+        $smsLog->date_time = date('Y-m-d H:i:s');
+        $smsLog->recipient_number = $recipient;
+        $smsLog->message = $message;
+        $smsLog->sms_status = 1;
+        $smsLog->msg_category_id = 2;
+        $smsLog->member_number = $memberNumber;
+        $smsLog->save(false);
+    }
+
+    private function sendOtpLimitNotice($phone, $memberNumber)
+    {
+        if (empty($phone)) {
+            return false;
+        }
+
+        if ($phone[0] === '0') {
+            $phone = '255' . substr($phone, 1);
+        } elseif ($phone[0] === '+') {
+            $phone = substr($phone, 1);
+        }
+
+        $message = urlencode('Umeomba OTP mara 5. Tafadhali tembelea ofisi ya ZSSF iliyo karibu kwa msaada zaidi.');
+        $this->file_get_contents_curl($message, $phone);
+        $this->recordOtpRequest($memberNumber, $phone, $message);
+
+        return true;
     }
 
     private function file_get_contents_curlOld($message, $phone_number)
