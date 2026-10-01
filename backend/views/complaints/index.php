@@ -137,7 +137,16 @@ $formatStatus = function ($model) use ($pendingStatusValues, $sortedStatusValues
             'attribute' => 'category',
             'value' => 'category0.category_name'
         ],
-        'message:ntext',
+        [
+            'attribute' => 'message',
+            'format' => 'ntext',
+            'contentOptions' => [
+                'style' => 'width:280px; max-width:280px; white-space:normal; overflow-wrap:anywhere;',
+            ],
+            'headerOptions' => [
+                'style' => 'width:280px; max-width:280px;',
+            ],
+        ],
         [
 
             'attribute' => 'photo_file',
@@ -154,6 +163,7 @@ $formatStatus = function ($model) use ($pendingStatusValues, $sortedStatusValues
         'respond_date',
         [
             'attribute' => 'status_type',
+            'label' => 'Status',
             'value' => function ($model) use ($formatStatus) {
                 return $formatStatus($model);
             },
