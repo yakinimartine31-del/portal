@@ -1,0 +1,2209 @@
+[13-Jun-2023 10:59:50 UTC] PHP Deprecated:  Return type of Symfony\Component\Console\Helper\HelperSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice in phar:///opt/cpanel/composer/bin/composer/vendor/symfony/console/Helper/HelperSet.php on line 112
+[03-Jan-2025 07:02:23 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:24 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:25 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:26 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:26 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:26 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[03-Jan-2025 07:02:27 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:56 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:56 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:56 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:50:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:03 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:03 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:04 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:04 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:04 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:04 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:05 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:14 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:15 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:15 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:15 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:15 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:16 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:16 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:20 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:20 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:20 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[18-Feb-2025 12:51:20 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:24 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:24 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:24 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:27 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:28 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:31 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:31 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:31 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:37 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:37 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:38 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:45 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:45 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:46 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:49 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:49 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:49 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:56 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:14:57 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:10 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:10 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:10 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:16 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:16 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:16 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:19 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[14-Jun-2025 12:15:20 Africa/Dar_es_Salaam] PHP Warning:  Trying to access array offset on value of type null in /home/zssforg/mobile/portal/frontend/views/layouts/main.php on line 483
+[09-Feb-2026 09:51:28 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 09:52:35 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 09:58:53 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 10:04:40 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 10:08:13 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 10:12:56 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 10:40:45 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 14:39:55 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 15:49:43 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Feb-2026 17:07:12 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Feb-2026 09:29:33 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Feb-2026 09:30:20 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Feb-2026 14:02:50 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Feb-2026 14:02:53 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Feb-2026 14:33:51 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[11-Feb-2026 10:27:34 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[11-Feb-2026 21:02:51 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[12-Feb-2026 22:44:12 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[14-Feb-2026 18:53:51 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Feb-2026 09:59:55 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Feb-2026 09:59:57 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Feb-2026 11:23:05 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Feb-2026 11:23:15 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Feb-2026 11:23:18 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[18-Feb-2026 10:55:08 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[18-Feb-2026 14:46:57 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[18-Feb-2026 17:58:46 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[18-Feb-2026 20:02:27 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[18-Feb-2026 22:53:29 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 07:38:23 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 09:28:04 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 10:07:47 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 10:22:11 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 11:17:51 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 14:01:42 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 14:54:27 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 14:54:44 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 17:58:33 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[20-Feb-2026 20:07:16 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[21-Feb-2026 09:33:07 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[21-Feb-2026 10:41:48 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[22-Feb-2026 20:17:42 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[23-Feb-2026 17:08:17 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[23-Feb-2026 17:46:22 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[24-Feb-2026 11:35:53 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[24-Feb-2026 14:42:26 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[26-Feb-2026 11:05:40 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[26-Feb-2026 17:30:04 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[26-Feb-2026 17:31:54 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 17:42:16 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 17:42:16 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 17:42:18 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[27-Feb-2026 08:07:55 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[27-Feb-2026 11:27:36 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[27-Feb-2026 11:27:37 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[27-Feb-2026 16:06:50 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[28-Feb-2026 10:40:31 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[28-Feb-2026 10:49:04 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[28-Feb-2026 11:44:02 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[28-Feb-2026 15:40:58 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[01-Mar-2026 12:49:37 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[02-Mar-2026 00:03:23 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[02-Mar-2026 01:07:40 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[02-Mar-2026 07:16:22 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[02-Mar-2026 07:17:50 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 07:27:36 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 07:27:37 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 07:27:38 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 11:43:54 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[02-Mar-2026 11:44:03 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[02-Mar-2026 11:46:07 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 11:46:18 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 19:33:15 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[02-Mar-2026 19:34:51 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 19:44:37 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 19:44:38 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[02-Mar-2026 19:44:41 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-Mar-2026 16:29:13 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[03-Mar-2026 16:36:43 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[03-Mar-2026 16:37:00 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[03-Mar-2026 21:48:31 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 08:41:16 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 11:03:08 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 11:03:12 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 13:30:50 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 19:49:56 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[04-Mar-2026 19:54:49 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[05-Mar-2026 00:35:07 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[05-Mar-2026 10:44:47 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[05-Mar-2026 11:58:24 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[05-Mar-2026 14:39:59 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[05-Mar-2026 18:25:54 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[06-Mar-2026 04:23:08 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[06-Mar-2026 08:53:49 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[06-Mar-2026 12:25:37 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[06-Mar-2026 16:18:15 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 03:11:19 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 11:21:05 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 11:22:02 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 11:54:57 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 12:01:27 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 13:10:05 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 18:08:22 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[07-Mar-2026 18:08:54 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[08-Mar-2026 12:00:57 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[08-Mar-2026 14:37:32 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[08-Mar-2026 14:41:29 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Mar-2026 02:24:40 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Mar-2026 09:53:43 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Mar-2026 17:20:52 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[09-Mar-2026 17:22:48 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Mar-2026 09:08:45 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Mar-2026 09:29:35 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Mar-2026 10:54:33 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[10-Mar-2026 11:55:17 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 14986 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/Lo[11-Mar-2026 03:52:21 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[11-Mar-2026 15:08:09 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16324 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 23035 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16322 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 500 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17789 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 447 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18707 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 446 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 22:14:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18707 bytes failed with[11-Mar-2026 19:14:49 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:49 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:50 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:50 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:51 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:51 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:55 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:14:56 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:15:00 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:15:00 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:15:02 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:28:45 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:45 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:46 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:46 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:46 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:47 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:48 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:57 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:57 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:57 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:59 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:59 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:29:01 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:03:56 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:03:56 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:03:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:03:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:01 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:03 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:04 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:05 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:05 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:06 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:06 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:07 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:10 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:20 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:21 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:21 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:21 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:23 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:26 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:28 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:28 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:28 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:29 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:32 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15298 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 12122 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Warning:  file_put_contents(): Only 4096 of 16218 bytes written, possibly out of free disk space in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15220 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 26200 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 440 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16180 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 440 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16218 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 461 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16181 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:27 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 440 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  unserialize(): Error at offset 12280 of 12288 bytes in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 152
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15461 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 11987 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Warning:  file_put_contents(): Only 4096 of 16083 bytes written, possibly out of free disk space in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 869 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 445 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16083 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 445 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15172 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 429 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16133 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 429 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15130 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 438 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16133 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 429 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16091 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 438 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write o[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 474 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16005 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16390 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15220 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15134 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16183 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16099 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16183 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 2239 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15532 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 441 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15178 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15405 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15291 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16097 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 533 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 445 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16491 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 437 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16140 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 438 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16251 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 445 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16249 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15351 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15372 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16138 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 444 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 476 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 15170 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16364 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 475 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 16366 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 476 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 439 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 532 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): W[12-Mar-2026 14:18:25 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 14:39:08 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 14:39:34 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 14:39:50 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 14:40:04 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 14:54:17 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 16:25:19 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 16:25:25 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[13-Mar-2026 19:42:04 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[14-Mar-2026 15:55:38 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[14-Mar-2026 18:24:50 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[14-Mar-2026 19:36:01 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[14-Mar-2026 22:11:01 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[15-Mar-2026 02:10:46 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Mar-2026 13:08:38 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent. in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php:369
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Response.php(342): yii\web\Response->sendHeaders()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(390): yii\web\Response->send()
+#2 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#3 {main}
+[16-Mar-2026 13:56:08 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17749 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:08 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17751 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17075 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 3471 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18038 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  unserialize(): Error at offset 20466 of 20480 bytes in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 152
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 9846 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Warning:  file_put_contents(): Only 8192 of 18038 bytes written, possibly out of free disk space in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:09 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 426 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17035 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 422 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17998 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 423 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17998 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:10 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 423 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:12 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 17199 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-Mar-2026 13:56:12 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 438 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[16-Mar-2026 13:56:12 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18160 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[16-M[18-Mar-2026 09:38:02 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\base\InvalidConfigException: The directory does not exist:  in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php:238
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(555): yii\web\AssetManager->checkBasePathPermission()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(487): yii\web\AssetManager->publishDirectory()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(181): yii\web\AssetManager->publish()
+#3 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(294): yii\web\AssetBundle->publish()
+#4 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(265): yii\web\AssetManager->loadBundle()
+#5 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(296): yii\web\AssetManager->getBundle()
+#6 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(301): yii\web\View->registerAssetBundle()
+#7 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle()
+#8 /home/zssforg/mobile/portal/frontend/views/layouts/main.php(16): yii\web\AssetBundle::register()
+#9 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(347): require('/home/zssforg/m...')
+#10 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#11 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(422): yii\base\View->renderFile()
+#12 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(408): yii\base\Controller->renderContent()
+#13 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorAction.php(139): yii\base\Controller->render()
+#14 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorAction.php(118): yii\web\ErrorAction->renderHtmlResponse()
+#15 [internal function]: yii\web\ErrorAction->run()
+#16 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Action.php(93): call_user_func_array()
+#17 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\Action->runWithParams()
+#18 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#19 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(109): yii\base\Module->runAction()
+#20 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#21 [internal function]: yii\base\ErrorHandler->handleException()
+#22 {main}
+Previous exception:
+yii\base\InvalidConfigException: The directory does not exist:  in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php:238
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(555): yii\web\AssetManager->checkBasePathPermission()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(487): yii\web\AssetManager->publishDirectory()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(181): yii\web\AssetManager->publish()
+#3 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(294): yii\web\AssetBundle->publish()
+#4 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(265): yii\web\AssetManager->loadBundle()
+#5 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(296): yii\web\AssetManager->getBundle()
+#6 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(301): yii\web\View->registerAssetBundle()
+#7 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle()
+#8 /home/zssforg/mobile/portal/frontend/views/layouts/main.php(16): yii\web\AssetBundle::register()
+#9 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(347): require('/home/zssforg/m...')
+#10 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#11 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(422): yii\base\View->renderFile()
+#12 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(408): yii\base\Controller->renderContent()
+#13 /home/zssforg/mobile/portal/frontend/controllers/SiteController.php(99): yii\base\Controller->render()
+#14 [internal function]: frontend\controllers\SiteController->actionHome()
+#15 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#17 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#18 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#19 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#20 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#21 {main}
+[18-Mar-2026 09:38:12 Africa/Dar_es_Salaam] An Error occurred while handling another error:
+yii\base\InvalidConfigException: The directory does not exist:  in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php:238
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(555): yii\web\AssetManager->checkBasePathPermission()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(487): yii\web\AssetManager->publishDirectory()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(181): yii\web\AssetManager->publish()
+#3 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(294): yii\web\AssetBundle->publish()
+#4 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(265): yii\web\AssetManager->loadBundle()
+#5 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(296): yii\web\AssetManager->getBundle()
+#6 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(301): yii\web\View->registerAssetBundle()
+#7 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle()
+#8 /home/zssforg/mobile/portal/frontend/views/layouts/main.php(16): yii\web\AssetBundle::register()
+#9 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(347): require('/home/zssforg/m...')
+#10 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#11 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(422): yii\base\View->renderFile()
+#12 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(408): yii\base\Controller->renderContent()
+#13 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorAction.php(139): yii\base\Controller->render()
+#14 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorAction.php(118): yii\web\ErrorAction->renderHtmlResponse()
+#15 [internal function]: yii\web\ErrorAction->run()
+#16 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Action.php(93): call_user_func_array()
+#17 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\Action->runWithParams()
+#18 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#19 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/ErrorHandler.php(109): yii\base\Module->runAction()
+#20 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/ErrorHandler.php(152): yii\web\ErrorHandler->renderException()
+#21 [internal function]: yii\base\ErrorHandler->handleException()
+#22 {main}
+Previous exception:
+yii\base\InvalidConfigException: The directory does not exist:  in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php:238
+Stack trace:
+#0 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(555): yii\web\AssetManager->checkBasePathPermission()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(487): yii\web\AssetManager->publishDirectory()
+#2 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(181): yii\web\AssetManager->publish()
+#3 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(294): yii\web\AssetBundle->publish()
+#4 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetManager.php(265): yii\web\AssetManager->loadBundle()
+#5 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(296): yii\web\AssetManager->getBundle()
+#6 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/View.php(301): yii\web\View->registerAssetBundle()
+#7 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/AssetBundle.php(125): yii\web\View->registerAssetBundle()
+#8 /home/zssforg/mobile/portal/frontend/views/layouts/main.php(16): yii\web\AssetBundle::register()
+#9 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(347): require('/home/zssforg/m...')
+#10 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#11 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(422): yii\base\View->renderFile()
+#12 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(408): yii\base\Controller->renderContent()
+#13 /home/zssforg/mobile/portal/frontend/controllers/SiteController.php(99): yii\base\Controller->render()
+#14 [internal function]: frontend\controllers\SiteController->actionHome()
+#15 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#16 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#17 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#18 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#19 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#20 /home/zssforg/mobile/portal/index.php(22): yii\base\Application->run()
+#21 {main}
+[24-Mar-2026 15:57:48 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:48
+[24-Mar-2026 15:57:48 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:49 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:49
+[24-Mar-2026 15:57:49 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:49 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:49
+[24-Mar-2026 15:57:49 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:50 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:50
+[24-Mar-2026 15:57:50 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:50 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:50
+[24-Mar-2026 15:57:51 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:51 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:51
+[24-Mar-2026 15:57:51 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:52 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:52
+[24-Mar-2026 15:57:52 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:52 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:52
+[24-Mar-2026 15:57:52 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:52 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:52
+[24-Mar-2026 15:57:53 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:53 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:53
+[24-Mar-2026 15:57:53 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:53 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:53
+[24-Mar-2026 15:57:54 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:54 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:54
+[24-Mar-2026 15:57:54 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:55 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:55
+[24-Mar-2026 15:57:55 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:55 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:55
+[24-Mar-2026 15:57:56 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:56 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:56
+[24-Mar-2026 15:57:56 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:56 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:56
+[24-Mar-2026 15:57:56 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:57 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:57
+[24-Mar-2026 15:57:57 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:58 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:58
+[24-Mar-2026 15:57:58 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:58 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:58
+[24-Mar-2026 15:57:58 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:57:58 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:57:58
+[24-Mar-2026 15:57:59 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:34 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:34
+[24-Mar-2026 15:59:35 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:35 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:35
+[24-Mar-2026 15:59:35 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:35 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:35
+[24-Mar-2026 15:59:35 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:36 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:36
+[24-Mar-2026 15:59:36 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:36 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:36
+[24-Mar-2026 15:59:36 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:37 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:37
+[24-Mar-2026 15:59:37 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:37 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:37
+[24-Mar-2026 15:59:37 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:37 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:37
+[24-Mar-2026 15:59:38 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:38 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:38
+[24-Mar-2026 15:59:38 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:38 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:38
+[24-Mar-2026 15:59:39 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:39 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:39
+[24-Mar-2026 15:59:39 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:39 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:39
+[24-Mar-2026 15:59:39 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:40 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:40
+[24-Mar-2026 15:59:40 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:40 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:40
+[24-Mar-2026 15:59:40 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:41 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:41
+[24-Mar-2026 15:59:41 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:41 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:41
+[24-Mar-2026 15:59:41 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:42 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:42
+[24-Mar-2026 15:59:42 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:42 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:42
+[24-Mar-2026 15:59:42 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:43 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:43
+[24-Mar-2026 15:59:43 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 15:59:43 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 15:59:43
+[24-Mar-2026 15:59:43 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:08 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:08
+[24-Mar-2026 16:02:08 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:08 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:08
+[24-Mar-2026 16:02:08 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:08 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:08
+[24-Mar-2026 16:02:09 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:09 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:09
+[24-Mar-2026 16:02:09 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:09 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:09
+[24-Mar-2026 16:02:10 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:10 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:10
+[24-Mar-2026 16:02:10 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:10 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:10
+[24-Mar-2026 16:02:10 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:11 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:11
+[24-Mar-2026 16:02:11 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:11 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:11
+[24-Mar-2026 16:02:11 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:12
+[24-Mar-2026 16:02:12 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:12
+[24-Mar-2026 16:02:12 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:12
+[24-Mar-2026 16:02:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:13
+[24-Mar-2026 16:02:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:13
+[24-Mar-2026 16:02:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:14
+[24-Mar-2026 16:02:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:14
+[24-Mar-2026 16:02:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:15
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:15
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:15
+[24-Mar-2026 16:02:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:02:16 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:02:16
+[24-Mar-2026 16:02:16 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:02 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:02
+[24-Mar-2026 16:21:02 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:03
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:03
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:03
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:03
+[24-Mar-2026 16:21:03 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:04
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:04
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:04
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:04
+[24-Mar-2026 16:21:04 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:05
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:05
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:05
+[24-Mar-2026 16:21:05 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:06
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:06
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:06
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:06
+[24-Mar-2026 16:21:06 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:07
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:07
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:07
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:07
+[24-Mar-2026 16:21:07 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:11
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:11
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:11
+[24-Mar-2026 16:21:11 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:12
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:12
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:12
+[24-Mar-2026 16:21:12 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:13
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:13
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:13
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:13
+[24-Mar-2026 16:21:13 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:14
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:14
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:14
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:14
+[24-Mar-2026 16:21:14 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:15
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:15
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:15
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:15
+[24-Mar-2026 16:21:15 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:16 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:16
+[24-Mar-2026 16:21:16 Africa/Dar_es_Salaam] Login form not submitted or validation failed
+[24-Mar-2026 16:21:16 Africa/Dar_es_Salaam] Login attempt at 2026-03-24 16:21:16
+[24-Mar-2026 16:21:16 Africa/Dar_es_Salaam] Login form not submitted or validation failed

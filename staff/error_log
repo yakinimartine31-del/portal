@@ -1,0 +1,73 @@
+[26-Feb-2026 12:59:55 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[26-Feb-2026 13:01:24 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 16:03:18 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[26-Feb-2026 16:04:43 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 16:12:51 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 16:12:55 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[26-Feb-2026 16:12:56 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[10-Mar-2026 12:33:21 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[10-Mar-2026 12:37:19 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[10-Mar-2026 12:45:23 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[10-Mar-2026 12:48:43 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[11-Mar-2026 22:14:37 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 20898 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:37 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 25995 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 22:14:37 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 20900 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 22:14:37 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 428 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 19:14:49 UTC] PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+[11-Mar-2026 19:28:46 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:48 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:57 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 19:28:59 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:03 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:05 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:28 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 20:04:31 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[11-Mar-2026 23:17:31 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[11-Mar-2026 23:17:32 Africa/Dar_es_Salaam] PHP Fatal error:  Uncaught yii\base\ErrorException: session_write_close(): Write failed: No space left on device (28) in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php:220
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError()
+#1 /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php(220): session_write_close()
+#2 [internal function]: yii\web\Session->close()
+#3 {main}
+  thrown in /home/zssforg/mobile/portal/vendor/yiisoft/yii2/web/Session.php on line 220
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18745 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 22307 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 19667 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 444 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 19668 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 445 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 18743 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:33 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 437 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  file_put_contents(): Write of 19704 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 74
+[11-Mar-2026 23:17:34 Africa/Dar_es_Salaam] PHP Notice:  fwrite(): Write of 437 bytes failed with errno=28 No space left on device in /home/zssforg/mobile/portal/vendor/yiisoft/yii2-debug/src/LogTarget.php on line 160
+[11-Mar-2026 23:1

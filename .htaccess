@@ -1,0 +1,42 @@
+
+RewriteOptions inherit
+RewriteEngine On
+Options -Indexes
+
+# Single root architecture:
+#   /       -> frontend
+#   /staff  -> backend
+
+# Backend entry point.
+RewriteRule ^staff/?$ staff/index.php [L,QSA]
+
+# Backend static files are served from the public staff directory.
+RewriteCond %{REQUEST_URI} ^/staff/
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Backend pretty URLs.
+RewriteRule ^staff/.*$ staff/index.php [L,QSA]
+
+# Keep project-level public files available, e.g. uploads/profile/images.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Frontend static files are served from frontend/web while the URL remains root.
+RewriteCond %{DOCUMENT_ROOT}/frontend/web%{REQUEST_URI} -f [OR]
+RewriteCond %{DOCUMENT_ROOT}/frontend/web%{REQUEST_URI} -d
+RewriteRule ^(.+)$ frontend/web/$1 [L,QSA]
+
+# Frontend pretty URLs.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^.*$ frontend/web/index.php [L,QSA]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php83” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

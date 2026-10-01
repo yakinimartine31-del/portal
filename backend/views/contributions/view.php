@@ -1,0 +1,58 @@
+<?php
+
+use yii\helpers\Html;
+use yii\widgets\DetailView;
+
+/* @var $this yii\web\View */
+/* @var $model backend\models\Contributions */
+
+$this->title = $model->id;
+$this->params['breadcrumbs'][] = ['label' => Yii::t('yii', 'Contributions'), 'url' => ['index']];
+$this->params['breadcrumbs'][] = $this->title;
+\yii\web\YiiAsset::register($this);
+
+// Enable CSRF token for the form if needed
+$csrfToken = Yii::$app->request->getCsrfToken();
+?>
+<div class="contributions-view">
+
+    <h1><?= Html::encode($this->title) ?></h1>
+
+    <p>
+        <?= Html::a(Yii::t('yii', 'Update'), ['update', 'id' => $model->id], ['class' => 'btn btn-primary']) ?>
+        <?= Html::a(Yii::t('yii', 'Export to PDF'), ['export-pdf', 'id' => $model->id], [
+            'class' => 'btn btn-success',
+            'target' => '_blank',
+            'data-pjax' => 0
+        ]) ?>
+        <?= Html::a(Yii::t('yii', 'Print'), ['print-pdf', 'id' => $model->id], [
+            'class' => 'btn btn-info',
+            'target' => '_blank',
+            'data-pjax' => 0
+        ]) ?>
+        <?= Html::a(Yii::t('yii', 'Delete'), ['delete', 'id' => $model->id], [
+            'class' => 'btn btn-danger',
+            'data' => [
+                'confirm' => Yii::t('yii', 'Are you sure you want to delete this item?'),
+                'method' => 'post',
+            ],
+        ]) ?>
+    </p>
+
+    <?= DetailView::widget([
+        'model' => $model,
+        'attributes' => [
+            'id',
+            'date_time',
+            'member_number',
+            'cont_month',
+            'cont_year',
+            'amount',
+            'salary',
+            'transaction_id',
+            'contributing_period',
+            'latest_updated',
+        ],
+    ]) ?>
+
+</div>

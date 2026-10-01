@@ -1,0 +1,55 @@
+<?php
+
+use yii\helpers\Html;
+use yii\grid\GridView;
+
+/* @var $this yii\web\View */
+/* @var $searchModel frontend\models\UserSearch */
+/* @var $dataProvider yii\data\ActiveDataProvider */
+
+$this->title = Yii::t('yii', 'Users');
+$this->params['breadcrumbs'][] = $this->title;
+?>
+<div class="user-index">
+
+    <h1><?= Html::encode($this->title) ?></h1>
+
+    <p>
+        <?= Html::a(Yii::t('yii', 'Create User'), ['create'], ['class' => 'btn btn-success']) ?>
+    </p>
+
+    <?php // echo $this->render('_search', ['model' => $searchModel]); ?>
+
+    <?= GridView::widget([
+        'dataProvider' => $dataProvider,
+        'filterModel' => $searchModel,
+        'columns' => [
+            ['class' => 'yii\grid\SerialColumn'],
+
+            'id',
+            'name',
+            'username',
+            'email:email',
+            'password_hash',
+            //'auth_key',
+            //'password_reset_token',
+            //'verification_token',
+            //'block',
+            //'status',
+            //'sendEmail:email',
+            //'registerDate',
+            //'lastvisitDate',
+            //'activation',
+            //'params:ntext',
+            //'lastResetTime',
+            //'resetCount',
+            //'otpKey',
+            //'otep',
+            //'requireReset',
+
+            ['class' => 'yii\grid\ActionColumn'],
+        ],
+    ]); ?>
+
+
+</div>
