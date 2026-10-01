@@ -16,8 +16,6 @@
             <td style="width: 80px; vertical-align: top; padding-right: 10px;">
                 <?php if ($logoBase64): ?>
                     <img src="data:image/png;base64,<?= $logoBase64 ?>" alt="ZSSF Logo" style="height: 70px; width: auto;">
-                <?php else: ?>
-                    <img src="../images/pdfzssflogo.png" alt="ZSSF Logo" style="height: 70px; width: auto;">
                 <?php endif; ?>
             </td>
             <td style="vertical-align: top;">

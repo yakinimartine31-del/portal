@@ -53,7 +53,8 @@ class ContributionTrendSearch extends ContributionTrend
             'pagination' => ['pageSize' => 100],
             'sort' => [
                 'defaultOrder' => [
-                    'id' => SORT_DESC,
+                    'ContributionYear' => SORT_ASC,
+                    'id' => SORT_ASC,
                 ],
             ],
         ]);
@@ -65,6 +66,14 @@ class ContributionTrendSearch extends ContributionTrend
             // $query->where('0=1');
             return $dataProvider;
         }
+
+        $latestRecordIds = ContributionTrend::find()
+            ->select('MAX(id)')
+            ->where(['member_id' => $member['member_sys_id']])
+            ->andFilterWhere(['between', 'ContributionYear', $this->date1, $this->date2])
+            ->groupBy(['ContributionYear']);
+
+        $query->andWhere(['id' => $latestRecordIds]);
 
         // grid filtering conditions
         $query->andFilterWhere([
@@ -101,7 +110,12 @@ class ContributionTrendSearch extends ContributionTrend
         ]);
 
         $query->andFilterWhere(['like', 'member_id', $this->member_id])
-            ->andFilterWhere(['between','ContributionYear', $this->date1, $this->date2]);
+            ->andFilterWhere(['between', 'ContributionYear', $this->date1, $this->date2]);
+
+        $query->orderBy([
+            'ContributionYear' => SORT_ASC,
+            'id' => SORT_ASC,
+        ]);
 
         return $dataProvider;
     }

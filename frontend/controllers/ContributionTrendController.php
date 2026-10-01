@@ -198,12 +198,12 @@ class ContributionTrendController extends Controller
 
         $models = $dataProvider->getModels();
 
-        // Sort models by year in descending order (newest first)
+        // Keep exports in the same chronological order as the statement screen.
         usort($models, function($a, $b) {
             if ($a->ContributionYear == $b->ContributionYear) {
-                return 0;
+                return $a->id <=> $b->id;
             }
-            return ($a->ContributionYear < $b->ContributionYear) ? 1 : -1;
+            return ($a->ContributionYear < $b->ContributionYear) ? -1 : 1;
         });
 
         // Calculate totals
@@ -293,7 +293,7 @@ class ContributionTrendController extends Controller
     private function exportPdf($models, $filename, $memberName, $memberNumber, $exportDate, $totalMonths, $totalContribution, $salaryData = [], $getAllSalaries = null)
     {
         // Get absolute path for logo
-        $logoPath = Yii::getAlias('@webroot') . '/images/pdfzssflogo.png';
+        $logoPath = dirname(Yii::getAlias('@webroot')) . '/../images/pdfzssflogo.png';
         $logoBase64 = null;
 
         // Convert logo to base64 if exists
@@ -423,62 +423,62 @@ class ContributionTrendController extends Controller
             // January
             $janSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 1) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $janSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->JANUARYC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->JANUARYC ?: 0), 2) . '</td>';
             
             // February
             $febSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 2) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $febSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->FEBRUARYC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->FEBRUARYC ?: 0), 2) . '</td>';
             
             // March
             $marSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 3) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $marSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->MARCHC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->MARCHC ?: 0), 2) . '</td>';
             
             // April
             $aprSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 4) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $aprSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->APRILC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->APRILC ?: 0), 2) . '</td>';
             
             // May
             $maySalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 5) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $maySalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->MAYC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->MAYC ?: 0), 2) . '</td>';
             
             // June
             $junSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 6) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $junSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->JUNEC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->JUNEC ?: 0), 2) . '</td>';
             
             // July
             $julSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 7) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $julSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->JULYC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->JULYC ?: 0), 2) . '</td>';
             
             // August
             $augSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 8) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $augSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->AUGUSTC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->AUGUSTC ?: 0), 2) . '</td>';
             
             // September
             $sepSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 9) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $sepSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->SEPTEMBERC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->SEPTEMBERC ?: 0), 2) . '</td>';
             
             // October
             $octSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 10) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $octSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->OCTOBERC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->OCTOBERC ?: 0), 2) . '</td>';
             
             // November
             $novSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 11) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $novSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->NOVEMBERC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->NOVEMBERC ?: 0), 2) . '</td>';
             
             // December
             $decSalary = ($getAllSalaries !== null) ? $getAllSalaries($year, 12) : '-';
             echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . $decSalary . '</td>';
-            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format($model->DECEMBERC, 2) . '</td>';
+            echo '<td style="padding:4px;border:1px solid #000;text-align:right;font-family:Courier New;">' . number_format((float)($model->DECEMBERC ?: 0), 2) . '</td>';
             echo '</tr>';
         }
 
@@ -553,18 +553,18 @@ class ContributionTrendController extends Controller
             fputcsv($output, [
                 $counter++,
                 $year,
-                $janSalary, number_format($model->JANUARYC, 2),
-                $febSalary, number_format($model->FEBRUARYC, 2),
-                $marSalary, number_format($model->MARCHC, 2),
-                $aprSalary, number_format($model->APRILC, 2),
-                $maySalary, number_format($model->MAYC, 2),
-                $junSalary, number_format($model->JUNEC, 2),
-                $julSalary, number_format($model->JULYC, 2),
-                $augSalary, number_format($model->AUGUSTC, 2),
-                $sepSalary, number_format($model->SEPTEMBERC, 2),
-                $octSalary, number_format($model->OCTOBERC, 2),
-                $novSalary, number_format($model->NOVEMBERC, 2),
-                $decSalary, number_format($model->DECEMBERC, 2)
+                $janSalary, number_format((float)($model->JANUARYC ?: 0), 2),
+                $febSalary, number_format((float)($model->FEBRUARYC ?: 0), 2),
+                $marSalary, number_format((float)($model->MARCHC ?: 0), 2),
+                $aprSalary, number_format((float)($model->APRILC ?: 0), 2),
+                $maySalary, number_format((float)($model->MAYC ?: 0), 2),
+                $junSalary, number_format((float)($model->JUNEC ?: 0), 2),
+                $julSalary, number_format((float)($model->JULYC ?: 0), 2),
+                $augSalary, number_format((float)($model->AUGUSTC ?: 0), 2),
+                $sepSalary, number_format((float)($model->SEPTEMBERC ?: 0), 2),
+                $octSalary, number_format((float)($model->OCTOBERC ?: 0), 2),
+                $novSalary, number_format((float)($model->NOVEMBERC ?: 0), 2),
+                $decSalary, number_format((float)($model->DECEMBERC ?: 0), 2)
             ]);
         }
 
