@@ -46,6 +46,11 @@ class ZssfMembersSearch extends ZssfMembers
     public function search($params)
     {
         $query = ZssfMembers::find();
+        $query->andWhere([
+            'or',
+            ['user_type' => null],
+            ['<>', 'user_type', '16'],
+        ]);
 
       //  $query->joinWith(['user0']);
         // add conditions that should always apply here
