@@ -49,19 +49,24 @@ class ComplaintsSearch extends Complaints
         if (empty($this->status_type)) {
             return;
         }
+
+        $sortedCutoff = '2026-03-31 23:59:59';
+        $pendingStart = '2026-04-01 00:00:00';
         
         if ($this->status_type == '1') {
             // PENDING: status_type = '1' AND no response data
             $query->andWhere(['AND',
                 ['status_type' => '1'],
+                ['>=', 'date_time', $pendingStart],
                 ['respond_date' => null],
                 ['response_message' => null],
                 ['response_by' => null]
             ]);
-        } elseif ($this->status_type == '0') {
+        } elseif ($this->status_type == '0' || $this->status_type === 'Sorted') {
             // SORTED: status_type in ['0', 'Sorted'] AND has actual response data with non-empty message
             $query->andWhere(['AND',
                 ['IN', 'status_type', ['0', 'Sorted']],
+                ['<=', 'respond_date', $sortedCutoff],
                 ['NOT', ['response_by' => null]],
                 ['NOT', ['response_message' => null]],
                 ['!=', 'response_message', ''],
