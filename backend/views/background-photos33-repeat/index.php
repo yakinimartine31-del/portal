@@ -75,7 +75,7 @@ $this->params['breadcrumbs'][] = Yii::t('yii', 'Members Contributions');
 //                    ['width' => '200px', 'height' => '200px','class'=>'img-horizontal']);
 //            },
             'value' => function ($data) {
-                return Html::img('../' . $data['image'],
+                return Html::img('/' . ltrim($data['image'], '/'),
                     ['width' => '200px', 'height' => '200px','class'=>'img-horizontal']);
             },
 

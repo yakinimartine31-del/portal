@@ -34,7 +34,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 'attribute' => 'image',
                 'format' => 'html',
                 'value' => function ($data) {
-                    return Html::img('../' . $data['image'],
+                    return Html::img('/' . ltrim($data['image'], '/'),
                         ['width' => '400px', 'height' => '400px','class'=>'img-horizontal']);
                 },
 
