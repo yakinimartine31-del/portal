@@ -25,7 +25,7 @@ $this->title = 'ZSSF | Members Portal';
     </div>
     <div class="row">
         <div class="col-md-12">
-            <div id="carousel-content-row-generic" class="carousel slide" data-ride="carousel">
+            <div id="carousel-content-row-generic" class="carousel slide portal-carousel" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#carousel-content-row-generic" data-slide-to="0" class="active"></li>
                     <li data-target="#carousel-content-row-generic" data-slide-to="1"></li>
@@ -33,7 +33,7 @@ $this->title = 'ZSSF | Members Portal';
                 </ol>
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="dist/img/home.png">
+                        <img src="dist/img/home.png" alt="" class="portal-carousel-image">
                         <a class="s-12 m-4 google_button"  href="https://play.google.com/store/apps/details?id=org.zssf.app&hl=en" target="_blank">
                             <img class="full-img right" src="dist/img/google-play.svg" alt="">
                         </a>
@@ -42,7 +42,7 @@ $this->title = 'ZSSF | Members Portal';
                         </a>
                     </div>
                     <div class="item">
-                        <img src="dist/img/slide2.png">
+                        <img src="dist/img/slide2.png" alt="" class="portal-carousel-image">
                     </div>
                 </div>
                 <a class="left carousel-control" href="#carousel-content-row-generic" data-slide="prev">
